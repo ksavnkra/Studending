@@ -1,2 +1,2 @@
 # Studending
-A Learning Management System build completely for student by a student
+A Learning Management System built by Keshav Nakra
